@@ -108,6 +108,9 @@ An interactive **Power BI dashboard** was created to visualize key insights incl
 * Customer subscription analysis
 
 The dashboard allows users to quickly explore business insights through visual representations.
+## Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
 
 ### 6. Reporting
 
