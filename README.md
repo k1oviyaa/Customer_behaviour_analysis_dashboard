@@ -12,7 +12,6 @@ The project covers:
 * Data cleaning and preparation
 * Query-based analysis using SQL databases
 * Dashboard creation for visual insights
-* Final reporting and presentation of results
 
 This project highlights practical skills used in real-world data analytics including data exploration, query analysis, visualization, and communication of insights.
 
@@ -112,13 +111,6 @@ The dashboard allows users to quickly explore business insights through visual r
 
 ![Power BI Dashboard](dashboard.png)
 
-### 6. Reporting
-
-A structured analytical report was prepared summarizing the findings, trends, and insights derived from the analysis.
-
-### 7. Presentation
-
-A final presentation was created using **Gamma and PowerPoint** to communicate the results in a clear and professional format.
 
 ---
 
